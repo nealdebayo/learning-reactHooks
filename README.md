@@ -7,4 +7,4 @@ Git clone this repository
 
 navigate to the app of your choice at localhost:3000
 
-# all apps were made with React proposed Hooks
+### all apps were made with React proposed Hooks
